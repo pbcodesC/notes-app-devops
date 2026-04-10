@@ -24,7 +24,7 @@ Code → Docker → Jenkins → Deployment
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/LondheShubham153/django-notes-app.git
+git clone https://github.com/pbcodesc/notes-app-devops.git
 ```
 
 2. Build the app
