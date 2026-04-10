@@ -1,5 +1,20 @@
-# Simple Notes App for TWS Community
-This is a simple notes app built with React and Django.
+# Notes App
+
+This is a simple Notes Application built using Django and enhanced with DevOps tools like Docker and Jenkins.
+
+## Tech Stack
+- Backend: Django (Python)
+- Frontend: HTML, CSS, JavaScript
+- DevOps: Docker, Jenkins
+- Version Control: Git & GitHub
+
+## Features
+- Create notes
+- Update notes
+- Delete notes
+
+  ## DevOps Workflow
+Code → Docker → Jenkins → Deployment
 
 ## Requirements
 1. Python 3.9
